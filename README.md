@@ -21,11 +21,11 @@
 
 # Introduction
 
-The repository was built with a tree-like structure in mind, it contains collections of **Python Projects**. Most people are afraid of Good Projects, which keeps them from getting into Python programming. It's not true, anyone can learn Python, and we plan to make it happen. The repository is open to anyone, whether you are a beginner or an expert developer.
+The repository was built with a tree-like structure in mind, it contains collections of **Python Projects**. Most people are afraid of Good Projects, which keeps them from getting into Python programming. It's not true, anyone can learn Python, and we plan to make it happen. The repository is open to anyone, whether you are a beginner or an expert developer. Please Follow Our [Contribution Guidelines](CONTRIBUTING.md) Strictly.
 
 <br>
 
-> We believe that Developing projects is more important than just learning theory. ✅ <br> Please Follow Our [Contribution Guidelines](CONTRIBUTING.md) Strictly.
+> We believe that Developing projects is more important than just learning theory. ✅
 
 <br>
 
